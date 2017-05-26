@@ -1,0 +1,29 @@
+{
+  "name": "activebox_dg",
+  "version": "1.0.0",
+  "description": "Kodilla module 7.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "activebox-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarekLatek/ActiveBox_DG.git"
+  },
+  "keywords": [
+    "activebox"
+  ],
+  "author": "Jarosław Latek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarekLatek/ActiveBox_DG/issues"
+  },
+  "homepage": "https://github.com/JarekLatek/ActiveBox_DG#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}

@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Cardo:400i");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+* {
+  box-sizing: border-box;
+  /*border: 1px solid #000;*/ }
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif; }
+
+/*NAV*/
+header .nav-color {
+  background-color: transparent;
+  height: 75px;
+  padding: 10px 0; }
+
+/*MASTHEAD*/
+.masthead {
+  background: url("../img/masthead.jpg") center/cover;
+  height: 750px; }
+
+/*FEATURES*/
+/*WORK*/
+/*TEAM*/
+/*CLIENTS*/
+/*DOWNLOAD*/
+/*FOOTER*/
+/*MEDIA-QUERIES*/
+
+/*# sourceMappingURL=main.css.map */
